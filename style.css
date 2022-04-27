@@ -8,10 +8,10 @@ body {
 .console-container {
  
   font-family:Khula;
-  font-size:4em;
+  font-size:250%;
   text-align:center;
   height:200px;
-  width:600px;
+  width:auto;
   display:block;
   position:absolute;
   color:white;
