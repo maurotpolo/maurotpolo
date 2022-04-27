@@ -2,10 +2,6 @@
 body {
   background: #111;
 }
-.home{
-  display: flex;
-  flex-wrap: wrap;
-}
 .hidden {
   opacity:0;
 }
