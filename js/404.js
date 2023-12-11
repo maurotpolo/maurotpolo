@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
-consoleText(['Error 404', 'Pagina no encontrada.'], 'text',['Gold','White']);
+consoleText([]);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
