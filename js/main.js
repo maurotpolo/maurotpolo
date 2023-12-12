@@ -1,4 +1,6 @@
-// function([string1, string2],target id,[color1,color2])    
+// function([string1, string2],target id,[color1,color2])
+consoleText(['maurotpolo', 'Made with Love.'], 'text',['DarkCyan','FireBrick']);
+
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
   var visible = true;
