@@ -1,4 +1,5 @@
 // function([string1, string2],target id,[color1,color2])
+consoleText(words, id, colors);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
